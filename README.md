@@ -1,5 +1,4 @@
 # Windows-Reg
-<h3> ⚙️ Windows Registry Power Pack ⚙️</h3>
 A collection of registry tweaks to enhance performance, usability, and customization.
 <br>⚠️ Works on Windows 10 and 11. It's recommended to create a restore point before applying registry changes
 
@@ -19,7 +18,7 @@ After applying it:
 
 ---
 
-<h3> 📋 Winver Mod.reg </b> 📋</h3>
+<h3> ⚙️ Winver Mod.reg </b> ⚙️</h3>
 ⚠️ Open this file with **Notepad**, edit the values as you wish, then apply the changes by **double-clicking** the file.
 It updates the system registration information: <br>
 <b>RegisteredOwner</b> → sets the registered owner name (in this case, Momo1098r). <br>
