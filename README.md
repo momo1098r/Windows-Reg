@@ -23,3 +23,9 @@ After applying it:
 It updates the system registration information: <br>
 <b>RegisteredOwner</b> → sets the registered owner name (in this case, Momo1098r). <br>
 <b>RegisteredOrganization</b> → sets the registered organization name (in this case, Pc Evolution)
+
+---
+
+<h3> Show Seconds in System Clock 🕐</h3>
+A simple Windows Registry tweak that enables seconds display in the taskbar clock.
+
